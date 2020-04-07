@@ -1,5 +1,5 @@
 {
-  "name": "imitation",
+  "name": "pinduoduo",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,13 +7,30 @@
     "test": "jest"
   },
   "dependencies": {
+    "aurora-imui-react-native": "^0.12.7",
+    "axios": "^0.18.0",
+    "immutable": "^4.0.0-rc.12",
+    "jcore-react-native": "^1.3.0",
+    "jpush-react-native": "^2.4.0",
+    "mock": "^0.1.1",
     "react": "16.6.1",
-    "react-native": "0.57.7"
+    "react-native": "0.57.7",
+    "react-native-amap-geolocation": "^0.3.2",
+    "react-native-gesture-handler": "^1.0.10",
+    "react-native-paper": "^2.2.8",
+    "react-native-splash-screen": "^3.1.1",
+    "react-native-swiper": "^1.5.14",
+    "react-native-vector-icons": "^6.1.0",
+    "react-navigation": "^3.0.4",
+    "react-navigation-material-bottom-tabs": "^1.0.0",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
-    "babel-jest": "25.2.6",
-    "jest": "25.2.7",
-    "metro-react-native-babel-preset": "0.59.0",
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.50.0",
     "react-test-renderer": "16.6.1"
   },
   "jest": {
