@@ -14,7 +14,7 @@
     "jpush-react-native": "^2.4.0",
     "mock": "^0.1.1",
     "react": "16.6.1",
-    "react-native": "0.57.7",
+    "react-native": "0.70.2",
     "react-native-amap-geolocation": "^0.3.2",
     "react-native-gesture-handler": "^1.0.10",
     "react-native-paper": "^2.2.8",
